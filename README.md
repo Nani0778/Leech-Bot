@@ -23,7 +23,7 @@
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nani0778/Leech-Bot)
 
 ### The Legacy Way
 Simply clone the repository and run the main file:
